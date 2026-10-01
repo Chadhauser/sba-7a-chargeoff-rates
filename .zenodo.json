@@ -1,0 +1,24 @@
+{
+  "upload_type": "dataset",
+  "title": "SBA 7(a) Charge-Off Rates 1992-2026",
+  "description": "<p>Charge-off rates for the US Small Business Administration 7(a) loan programme, computed from the full public record released under FOIA, 1992 to 2026.</p><p>Three aggregate CSVs: charge-off rates by state, by industry, and by franchise.</p><p>Note on scope: the by-industry file contains the top 20 industries by resolved loan volume, not every industry above a volume threshold. Published by Finance Clearly, a publication of Edwards Bros (Spaldwick) Ltd.</p>",
+  "creators": [
+    {
+      "name": "Edwards, Peter",
+      "affiliation": "Finance Clearly"
+    }
+  ],
+  "keywords": [
+    "SBA",
+    "7(a)",
+    "small business lending",
+    "charge-off",
+    "default rates",
+    "United States",
+    "open data",
+    "FOIA"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng"
+}
